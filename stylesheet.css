@@ -1,0 +1,20 @@
+.arken-menu-window {
+  padding: 10px 10px 0px 10px;
+}
+
+.arken-menu-item-title {
+  font-size: 125%;
+  font-weight: bold;
+  color: #00a0d6
+}
+
+.arken-menu-item-description {
+  font-size: 100%;
+  padding: 2px 0px 15px 10px;
+}
+
+.arken-menu-footer {
+  font-size: 70%;
+  padding: 10px 0px 2px 10px;
+  text-align: right;
+}

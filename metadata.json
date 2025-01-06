@@ -1,0 +1,8 @@
+{
+"max-instances": "1",
+"uuid": "daily_menu@phantom",
+"name": "Daily Menu",
+"description": "A Linux Cinnamon desklet to show daily menu from the restaurang Arken",
+"version": "0.2",
+"prevent-decorations": false
+}

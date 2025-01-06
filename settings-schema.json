@@ -1,0 +1,32 @@
+{
+    "head" : {
+        "type" : "header",
+        "description" : "Settings"
+    },
+
+    "url" : {
+        "default" : "https://postnord.foodbycoor.se/arken",
+        "type" : "entry",
+        "description" : "Url"
+    },
+
+    "height" : {
+        "default" : 200,
+        "type" : "spinbutton",
+        "min" : 150,
+        "max" : 300,
+        "description" : "Height",
+        "units" : "pixels",
+        "step" : 10
+    },
+
+    "width" : {
+        "default" : 380,
+        "type" : "spinbutton",
+        "min" : 200,
+        "max" : 600,
+        "description" : "Width",
+        "units" : "pixels",
+        "step" : 10
+    }
+}
